@@ -7,6 +7,7 @@ Welcome to the **PWA Text Editor Challenge**! In this project, you will build a 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Technology Stack](#technology-stack)
+- [Demo](#demo)
 - [Deployment](#deployment)
 - [Acknowledgements](#acknowledgements)
 
@@ -21,4 +22,54 @@ Welcome to the **PWA Text Editor Challenge**! In this project, you will build a 
 ## Getting Started
 
 1. Clone this repository to your local machine.
+
+```bash
+git clone https://github.com/your_username/pwa-text-editor.git
+```
+
+2. Navigate to the project directory.
+    
+    ```bash
+    cd pwa-text-editor
+    ```
+
+
+3. Install the required dependencies.
+    
+    ```bash
+    npm install
+    ```
+    4. Start the application.
+    
+    ```bash
+    npm start
+    ```
+
+5. Open the application in your browser at `http://localhost:3000`.
+
+
+5. Open your browser and navigate to `http://localhost:3000`.
+
+## Technology Stack
+
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) - Client-side storage
+- [idb](https://www.npmjs.com/package/idb) - Lightweight IndexedDB wrapper
+- [React](https://reactjs.org/) - Front-end library
+
+
+## Demo
+**The application is deployed to Heroku and can be accessed at** [https://pwa-text-editor.herokuapp.com/](https://pwa-text-editor.herokuapp.com/).
+
+
+## Deployment
+
+This application is deployed to Heroku using the [Heroku Deployment Guide](https://www.fullstackblog.com/guides/heroku-deployment-guide) on The Full-Stack Blog.
+
+## Acknowledgements
+
+- [Google](https://www.google.com) and [Mozilla](https://www.mozilla.org) for their use and support of the `idb` package
+- [Heroku](https://www.heroku.com) for providing a platform to deploy the application
+- [The Full-Stack Blog](https://www.fullstackblog.com) for the Heroku Deployment Guide
+
+
 
