@@ -24,7 +24,7 @@ Welcome to the **PWA Text Editor Challenge**! In this project, you will build a 
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_username/pwa-text-editor.git
+git clone https://github.com/naodhu/text-editor.git
 ```
 
 2. Navigate to the project directory.
@@ -54,7 +54,6 @@ git clone https://github.com/your_username/pwa-text-editor.git
 
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) - Client-side storage
 - [idb](https://www.npmjs.com/package/idb) - Lightweight IndexedDB wrapper
-- [React](https://reactjs.org/) - Front-end library
 
 
 ## Demo
