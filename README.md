@@ -19,6 +19,17 @@ Welcome to the **PWA Text Editor Challenge**! In this project, you will build a 
 - Offline functionality
 - Lightweight `idb` package for database management
 
+## screenshots
+
+the following screenshots show the application **manifest.json** file
+![screenshot](./public/images/manifest.png)
+
+the following screenshots show the application **service-worker.js** file
+![screenshot](./public/images/register.png)
+
+the following screenshots show the application **index-DB** file
+![screenshot](./public/images/indexDB.png)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
@@ -28,25 +39,24 @@ git clone https://github.com/naodhu/text-editor.git
 ```
 
 2. Navigate to the project directory.
-    
-    ```bash
-    cd pwa-text-editor
-    ```
 
+   ```bash
+   cd pwa-text-editor
+   ```
 
 3. Install the required dependencies.
-    
-    ```bash
-    npm install
-    ```
-    4. Start the application.
-    
-    ```bash
-    npm start
-    ```
 
-5. Open the application in your browser at `http://localhost:3000`.
+   ```bash
+   npm install
+   ```
 
+   4. Start the application.
+
+   ```bash
+   npm start
+   ```
+
+4. Open the application in your browser at `http://localhost:3000`.
 
 5. Open your browser and navigate to `http://localhost:3000`.
 
@@ -55,10 +65,9 @@ git clone https://github.com/naodhu/text-editor.git
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) - Client-side storage
 - [idb](https://www.npmjs.com/package/idb) - Lightweight IndexedDB wrapper
 
-
 ## Demo
-**The application is deployed to Heroku and can be accessed at** [https://pwa-text-editor.herokuapp.com/](https://pwa-text-editor.herokuapp.com/).
 
+**The application is deployed to Heroku and can be accessed at** [https://pwa-text-editor.herokuapp.com/](https://pwa-text-editor.herokuapp.com/).
 
 ## Deployment
 
@@ -70,5 +79,12 @@ This application is deployed to Heroku using the [Heroku Deployment Guide](https
 - [Heroku](https://www.heroku.com) for providing a platform to deploy the application
 - [The Full-Stack Blog](https://www.fullstackblog.com) for the Heroku Deployment Guide
 
+## Contact
 
+If you want to contact me you can reach me at [naodhunde@gmail.com](mailto:naodhunde@gmail.com).
 
+## License
+
+This project uses the following license: [MIT]()
+
+##
